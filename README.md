@@ -1,4 +1,4 @@
-# solve-BlackJack-problem-with-monte-carlo-prediction-algorithm
+# solve-BlackJack-problem-by-monte-carlo-algorithm
 Blackjack is a popular card game. in this repository, I've implemented MC prediction algorithm to predict the state value function of a selected policy and MC control to find optimal policy starting a random policy. 
 ## BlackJack game
 ![image](https://user-images.githubusercontent.com/74808396/183819119-bc7dabbd-a91f-4f9f-84ce-09f1d7efc483.png)
